@@ -1,5 +1,5 @@
 <h1 align="center"> Hey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px />, I'm Aayush </h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <div size='20px'>Thank You for taking the time to view my GitHub Profile. </div>
 
 <br>
@@ -8,7 +8,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </h2>
 
-- 👯 I’m looking to collaborate on **full stack projects**
+- 🔭 I’m currently working on **MERN stack projects**
+
+- 👯 I’m looking to collaborate on **Web based projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/aayush301](https://github.com/aayush301)
 
 - 💬 Ask me about **C++, Javascript, React**
 
