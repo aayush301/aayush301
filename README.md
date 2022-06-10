@@ -55,6 +55,6 @@
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush301&show_icons=true&locale=en&layout=compact" alt="aayush301" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush301&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook" alt="aayush301" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=aayush301&show_icons=true&locale=en" alt="aayush301" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush301&" alt="aayush301" /></p>
